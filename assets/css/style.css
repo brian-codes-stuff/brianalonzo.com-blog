@@ -125,7 +125,7 @@ article{
 }
 
 article {
-	padding: 0 10% 0;
+	padding: 0 4% 0;
 }
 
 article.home div a, article.home pre a { color: #2c3e50; }
@@ -296,6 +296,11 @@ li.nav-item:active {
      #sidebar ul.navbar-nav li.nav-item {
         padding-top: 5px;
         padding-bottom: 5px;
+    }
+    
+    .panel {
+        background-color: #fff;
+    width: 100%;
     }
 }
 
