@@ -286,6 +286,11 @@ li.nav-item:active {
         padding-top: 5px !important;
         padding-bottom: 5px !important;
     }
+    
+    .panel {
+        background-color: #fff;
+    width: 100% !important;
+    }
 
 }
 
@@ -300,7 +305,7 @@ li.nav-item:active {
     
     .panel {
         background-color: #fff;
-    width: 100%;
+    width: 100% !important;
     }
 }
 
@@ -324,7 +329,7 @@ li.nav-item:active {
 
 .panel {
         background-color: #fff;
-    width: 70%;
+    width: 70% !important;
     padding: 25px;
     padding-top: 40px;
     margin: 45px auto;
