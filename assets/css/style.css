@@ -4,6 +4,9 @@
 body{
 	color: #2c3e50;
     font-family: 'Open Sans', sans-serif;
+        background-image: url('https://brianalonzo.com/img/brian-alonzo-cleveland-web-design-background-35.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 p {
@@ -312,4 +315,18 @@ li.nav-item:active {
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     color: #fff !important;
     background-color: #4DA6FF !important;
+}
+
+.panel {
+        background-color: #fff;
+    width: 70%;
+    padding: 25px;
+    padding-top: 40px;
+    margin: auto;
+    color: #888888;
+    position: relative;
+    border-radius: 0px;
+    /* -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset; */
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
