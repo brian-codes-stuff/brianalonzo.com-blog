@@ -299,3 +299,8 @@ li.nav-item:active {
 .logo {
     max-width: 100%; 
 }
+
+.navbar-default {
+    background-color: #4B0082;
+    border-color: #4B0082;
+}
